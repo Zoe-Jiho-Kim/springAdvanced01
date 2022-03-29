@@ -43,6 +43,6 @@ public class ItemSearchService {
 
         return itemDtoList;
     }
-    
+
 
 }
